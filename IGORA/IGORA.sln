@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGORA", "IGORA.csproj", "{75BE4BEF-0C5D-8CD7-6721-40E88B512F8A}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGORA", "Assembly-CSharp.csproj", "{B826C0EE-FCA5-3ECB-00D4-711D5881CDEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{75BE4BEF-0C5D-8CD7-6721-40E88B512F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75BE4BEF-0C5D-8CD7-6721-40E88B512F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75BE4BEF-0C5D-8CD7-6721-40E88B512F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75BE4BEF-0C5D-8CD7-6721-40E88B512F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B826C0EE-FCA5-3ECB-00D4-711D5881CDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B826C0EE-FCA5-3ECB-00D4-711D5881CDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B826C0EE-FCA5-3ECB-00D4-711D5881CDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B826C0EE-FCA5-3ECB-00D4-711D5881CDEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
